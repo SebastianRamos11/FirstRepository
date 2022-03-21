@@ -4,6 +4,12 @@
     font-family: sans-serif;
 }
 
-.header{   
+.container{
     border: 1px solid #ddd;
+    background: lightblue;
+}
+
+.header{
+    margin: 5px;
+    background: slateblue;
 }
